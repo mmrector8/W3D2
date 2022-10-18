@@ -59,16 +59,6 @@ class Board
         end
        
     end
-    # def render_help(arr)
-    #     arr.map do |card|
-    #         if card.face_up == true
-    #             puts card.mark
-    #         else
-    #             puts " "
-    #         end
-    #     end
-    #     arr
-    # end
-
+  
 
 end
