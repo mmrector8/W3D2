@@ -27,6 +27,6 @@ class Card
         self.mark == mark
     end
 
-    # hello world add . asdflkjhasjkld
+    # hello world add . asdflkjhasjkldsdfbsdfgsdf
 
 end
