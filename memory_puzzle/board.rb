@@ -57,8 +57,10 @@ class Board
             end
          p subarr.join(" ")
         end
-       
     end
   
+    def won?
+       
+    end
 
 end
